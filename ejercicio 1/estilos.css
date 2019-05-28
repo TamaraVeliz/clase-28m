@@ -1,0 +1,110 @@
+.afuera {
+  position: absolute;
+  left: 130px;
+  top: 220px;
+}
+
+.gato {
+  width: 298px;
+  height: 367px;
+}
+
+.foto-gato {
+  width: 100%;
+  height: auto;
+}
+
+.contenedor {
+  display: flex;
+  flex-direction: row;
+}
+
+.africa,
+.blue,
+.cielo {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.foto-africa,
+.foto-blue,
+.foto-cielo {
+  height: auto;
+  width: 100%;
+}
+
+.africa {
+  height: 360px;
+  width: 240px;
+}
+
+.blue {
+  height: 480px;
+  width: 240px;
+}
+
+.cielo {
+  height: 280px;
+  width: 240px;
+}
+
+.tea,
+.aspen,
+.farol {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.tea {
+  height: 360px;
+  width: 320px;
+}
+
+.aspen {
+  height: 280px;
+  width: 320px;
+}
+
+.farol {
+  width: 320px;
+  height: 480px;
+}
+
+.foto-aspen,
+.foto-tea,
+.foto-farol {
+  height: auto;
+  width: 100%;
+}
+
+.azul,
+.negro,
+.celeste,
+.amarillo,
+.magenta {
+  height: 215px;
+  width: 155px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.negro {
+  background-color: rgb(44, 44, 44);
+}
+
+.azul {
+  background-color: rgb(30, 70, 201);
+}
+
+.celeste {
+  background-color: rgb(166, 188, 250);
+}
+
+.amarillo {
+  background-color: rgb(255, 231, 125);
+}
+
+.magenta {
+  background-color: rgb(153, 31, 92);
+}
